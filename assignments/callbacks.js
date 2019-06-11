@@ -85,3 +85,15 @@ function removeDuplicates(array, cb) {
   });
   return cb(helperArray);
 }
+
+// const someArr = [1, 2, 3, 4, 5, 5, 5, 5];function removeDuplicates(array, cb) {
+//  removeDuplicates removes all duplicate values from the given array.
+//  Pass the duplicate free array to the callback function.
+//  Do not mutate the original array.
+//  const helperArr = [...array];
+//  let newArr = [];
+//  newArr = [...new Set(helperArr)];
+//  return newArr;
+// }let q = removeDuplicates(someArr);
+// console.log(someArr);
+// console.log(q);
