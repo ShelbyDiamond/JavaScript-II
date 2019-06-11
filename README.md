@@ -49,4 +49,6 @@ We have learned that closures allow us to access values in scope that have alrea
 ## Stretch Goals
 
 - [ ] Go back through the stretch problems that you skipped over and complete as many as you can.
-- [ ] Look up what an IIFE is in JavaScript and experiment with them
+- [x] Look up what an IIFE is in JavaScript and experiment with them
+
+An IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined.

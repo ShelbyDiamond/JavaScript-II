@@ -1,6 +1,6 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-const myDogs = ["bentleySwizzleton", "remy"];
+const myDogs = ["bentleySwizzleton", "remy", "penny"];
 
 function animal() {
   return myDogs;
